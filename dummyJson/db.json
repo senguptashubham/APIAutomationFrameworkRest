@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "AccountName": "Rajesh Mittal",
+      "InitailBalance": 1000,
+      "Address": "Ahmedabad,Gujrat",
+      "id": 1
+    },
+    {
+      "AccountName": "Shubham Sengupta",
+      "InitailBalance": 500,
+      "Address": "Kolkata,WestBengal",
+      "id": 2
+    },
+    {
+      "AccountName": "John Doe",
+      "InitailBalance": 1500,
+      "Address": "SiliconValley,CA",
+      "id": 3
+    },
+    {
+      "AccountName": "Sonia Jaiswal",
+      "InitailBalance": 2500,
+      "Address": "Mumbai,Maharashtra",
+      "id": 4
+    },
+    {
+      "accountName": "Rajesh Mittal",
+      "initailBalance": 1000,
+      "address": "Ahmedabad, Gujarat",
+      "id": 5
+    },
+    {
+      "accountName": "Rajesh Mittal",
+      "initailBalance": 1000,
+      "address": "Ahmedabad, Gujarat",
+      "id": 6
+    },
+    {
+      "accountName": "Rajesh Mittal",
+      "initailBalance": 1000,
+      "address": "Ahmedabad, Gujarat",
+      "id": 7
+    }
+  ]
+}
